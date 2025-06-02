@@ -1,4 +1,4 @@
 function showMessage() {
-  document.getElementById("message").textContent = " NIZEYIMANA Amran , NZABONIMANA Rayen , TUNGA Else"
+  document.getElementById("message").textContent = " NIZEYIMANA Amran , NZABONIMANA Rayen , TUNGA Elese"
   ;
 }
